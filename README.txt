@@ -33,6 +33,9 @@ Credits:
 
 	Icons:
 		Font Awesome (fontawesome.io)
+		
+	Cartoon Image: 
+		Image by catalyststuff on FreePik
 
 	Other
 		jQuery (jquery.com)
